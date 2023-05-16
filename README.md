@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image title](https://rushter.com/counter.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=OS03Bit)
+
 
 <!--
 **OS03Bit/OS03Bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
